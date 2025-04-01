@@ -14,7 +14,7 @@ A SvelteKit-based application for managing your local media library, with suppor
 ## Prerequisites
 
 -   Node.js v18 or higher
--   Local media directory (Z:\ drive)
+-   Local media directory (configured in local-directories.ts)
 -   Firebase account for metadata storage
 -   FFProbe for media analysis
 -   Modern web browser
